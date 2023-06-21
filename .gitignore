@@ -143,3 +143,7 @@ test*
 run/
 run*
 
+# idea
+.idea
+
+
